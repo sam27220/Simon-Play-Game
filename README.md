@@ -45,7 +45,7 @@ Simon-Play-Game/
 
 Clone the repository:
 
-git clone https://github.com/your-username/simon-play-game.git
+git clone https://github.com/sam27220/simon-play-game.git
 Open the project folder
 Open index.html in your browser
 
